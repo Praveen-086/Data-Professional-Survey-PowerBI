@@ -99,11 +99,8 @@ Data-Professional-Survey-PowerBI/
 
 ### Files
 
-**`Data_Professional_Survey_PowerBI.pbix`**
-The Power BI report containing the dashboard, visualizations, data model, and analysis.
-
-**`Data_Professional_Survey_Dashboard.png`**
-A static preview of the completed Power BI dashboard.
+- [Data_Professional_Survey_PowerBI.pbix](./Data_Professional_Survey_PowerBI.pbix) — Power BI dashboard and analysis file
+- [Data_Professional_Survey_Dashboard.png](./Data_Professional_Survey_Dashboard.png) — Static preview of the completed dashboard
 
 ---
 
