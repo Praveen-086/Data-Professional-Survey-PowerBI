@@ -101,6 +101,7 @@ Data-Professional-Survey-PowerBI/
 
 - [Data_Professional_Survey_PowerBI.pbix](./Data_Professional_Survey_PowerBI.pbix) — Power BI dashboard and analysis file
 - [Data_Professional_Survey_Dashboard.png](./Data_Professional_Survey_Dashboard.png) — Static preview of the completed dashboard
+- [BI_Project_Dataset.xlsx](./BI_Project_Dataset.xlsx) - Dataset for the Poject
 
 ---
 
