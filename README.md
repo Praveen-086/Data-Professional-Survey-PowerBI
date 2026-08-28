@@ -10,6 +10,12 @@ The project demonstrates practical skills in **data visualization, dashboard dev
 
 ---
 
+## 🖼️ Dashboard Preview
+
+![Data Professional Survey Dashboard](Data_Professional_Survey_Dashboard.png)
+
+---
+
 ## 🎯 Project Objectives
 
 * Analyze the demographic profile of survey respondents.
@@ -78,12 +84,6 @@ Based on the dashboard analysis:
 * The dashboard shows variation in perceived difficulty when entering the data field, with a substantial proportion of respondents selecting a neutral difficulty level.
 * The overall work-life balance satisfaction score displayed on the dashboard is approximately **5.74/10**.
 * The dashboard provides a visual comparison of salary, job role, programming preferences, and career-entry experiences.
-
----
-
-## 🖼️ Dashboard Preview
-
-![Data Professional Survey Dashboard](Data_Professional_Survey_Dashboard.png)
 
 ---
 
